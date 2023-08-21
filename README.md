@@ -36,7 +36,7 @@ Desktop
 ### Links
 
 - Solution URL: [Github](https://github.com/SimonNord/frontendmentor.io-testimonials-grid-section)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
+- Live Site URL: [Github Pages](https://simonnord.github.io/frontendmentor.io-testimonials-grid-section/)
 
 ## My process
 
